@@ -2,6 +2,10 @@
 SQL-based e-commerce sales analytics project using MySQL
 # E-Commerce Sales Analytics Project
 
+## Dataset
+Brazilian E-Commerce Public Dataset by Olist:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Overview
 This project analyzes e-commerce sales data using SQL and MySQL.
 
